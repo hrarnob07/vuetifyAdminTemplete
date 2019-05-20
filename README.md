@@ -1,12 +1,10 @@
 # Vue Admin Template
-Sample Admin Template based on Vuejs &amp; Vuetify.
+Sample modified Vuejs &amp; Vuetify.
 
 ## Introduction
 Vue Admin Template is a Vue.js Based Admin Template. This template uses the vuetify components and styles.
 
-## Demo
 
-[Live Demo](https://fatihunlu.github.io/vue-admin-template)
 
 ## Preview
 
@@ -42,6 +40,4 @@ For a detailed explanation on how things work, check out the [guide](http://vuej
 - Star my GitHub repo :star:
 - Create pull requests, submit bugs, suggest new features or documentation updates :wrench:
 
-<a href="https://www.patreon.com/fatihunlu">
-  <img src="https://c5.patreon.com/external/logo/become_a_patron_button@2x.png" width="160">
-</a>
+

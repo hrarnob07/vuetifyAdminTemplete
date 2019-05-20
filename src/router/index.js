@@ -3,7 +3,7 @@ import Router from 'vue-router';
 
 import Dashboard from '../pages/Dashboard.vue';
 import Login from '../pages/core/Login.vue';
-// import Error from '../pages/core/Error.vue';
+
 
 
 
